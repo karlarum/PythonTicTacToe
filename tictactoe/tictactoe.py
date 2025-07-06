@@ -8,7 +8,7 @@ pygame.init()
 # Screen
 SCREEN_WIDTH = 600
 SCREEN_HEIGHT = 700
-SCREEN_TITLE = "Tic-Tac-Toe Game"
+SCREEN_TITLE = "Tic-Tac-Toe"
 
 # Grid
 GRID_SIZE = 3
